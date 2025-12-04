@@ -1,0 +1,697 @@
+[
+  {
+    "id": 1,
+    "name": "HP PAVILLON Core i7 NVIDIA GEFORCE GTX 1050",
+    "category": "Computers",
+    "price": 265000,
+    "image": "/HP I7 2G-D.jpg",
+    "description": "High-performance gaming laptop with RTX 1050 graphics HP PAVILLON Core i7-8750H",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 280000
+  },
+  {
+    "id": 2,
+    "name": "HP Elitebook 745 G6 AMD-Ryzen 5Pro AMD Radeon Vega 6",
+    "category": "Computers",
+    "price": 175000,
+    "image": "/HP ELITEBOOK 745G6  RYSEN 5PRO.jpg",
+    "description": "Apple MacBook Air with M2 chip, 8GB RAM, 256GB SSD",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 3,
+    "name": "Dell XPS 13",
+    "category": "Computers",
+    "price": 75000.999,
+    "image": "/DELL LAT 3189 I3.jpeg",
+    "description": "Ultra-portable laptop with Intel Core i7 processor",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 4,
+    "name": "HP Pavilion 15 Core i7 ",
+    "category": "Computers",
+    "price": 175000,
+    "image": "/HP PAVILLON 15 I7.jpg",
+    "description": "Complete desktop computer with monitor included",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 190000
+  },
+  {
+    "id": 5,
+    "name": "ASUS ROG STRIX G17 Gaming PC",
+    "category": "Computers",
+    "price": 530000,
+    "image": "/ASUS ROG STRIX G17 AMD.jpg",
+    "description": "High-end gaming desktop with RGB lighting",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 6,
+    "name": "Lenovo ThinkPad T580 Core i5 ultrabook 15,6 inch",
+    "category": "Computers",
+    "price": 145000,
+    "image": "/LENEVO THINK T580 I5.jpeg",
+    "description": "Business laptop with excellent keyboard and durability",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 7,
+    "name": "DELL LATITUDE 5290 2-IN-1 Core i5",
+    "category": "Computers",
+    "price": 120000,
+    "image": "/DELL LAT 5290 2-IN-1 I5.jpeg",
+    "description": "2-in-1 tablet and laptop with touch screen",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 8,
+    "name": "ASUS ROG core i7 NVIDIA GEFORCE GTX 1050 (8GB)",
+    "category": "Computers",
+    "price": 460000,
+    "image": "/ASUS ROG I7 8G-D.jpg",
+    "description": "Affordable laptop for basic computing needs",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 475000
+  },
+  {
+    "id": 9,
+    "name": "LENEVO ThinkPad AMD RYZEN 5PRO (2GB)",
+    "category": "Computers",
+    "price": 1000,
+    "image": "/LENEVO THINK AMD-R5PRO 2G-D.jpg",
+    "description": "All-in-one desktop with stunning 4.5K display",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 10,
+    "name": "HP PROBOOK 650 G5 Core i5",
+    "category": "Computers",
+    "price": 130000,
+    "image": "/HP PROB 650 G5 I5.jpg",
+    "description": "Custom assembled PC for your specific needs",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 11,
+    "name": "DELL LATITUDE 5540 Core i5 13th Gen",
+    "category": "Computers",
+    "price": 170000,
+    "image": "/DELL LAT 5540 I5.jpg",
+    "description": "Compact desktop computer for space-saving setup",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 12,
+    "name": "LENEVO ThinkPad L15 G2 AMD R-7PRO (4GB)",
+    "category": "Computers",
+    "price": 250000,
+    "image": "/LENEVO THINK L15 G2 AMD R-7PRO.jpg",
+    "description": "Professional laptop for CAD and video editing",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 13,
+    "name": "DELL LATITUDE 5420 Core i7 11th Gen",
+    "category": "Computers",
+    "price": 185000,
+    "image": "/DELL LAT 5420 I5 & I7.jpg",
+    "description": "Affordable desktop for basic office work",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 200000
+  },
+  {
+    "id": 14,
+    "name": "Gaming Laptop DELL Precision Core i7 NVIDIA GEFORCE 1060 (4GB)",
+    "category": "Computers",
+    "price": 295000,
+    "image": "/DELL  I7 4G-D.jpg",
+    "description": "Premium gaming laptop with latest graphics",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 15,
+    "name": "LENEVO ThinkPad X1 CARBON Core i7 Ultrabook 14-inch",
+    "category": "Computers",
+    "price": 160000,
+    "image": "/LENEVO X1 CARBON I7.jpg",
+    "description": "Lightweight laptop with long battery life",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 16,
+    "name": "LENEVO ThinkPad AMD RYZEN 5PRO (1GB)",
+    "category": "Computers",
+    "price": 135000,
+    "image": "/LENEVO THINK AMD-R5PRO 1G-D.jpeg",
+    "description": "Enterprise-grade server for business use",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 17,
+    "name": "HP ELITEBOOK 840 G8 Core i5 11th Gen",
+    "category": "Computers",
+    "price": 165000,
+    "image": "/HP ELITE 840 G8 I5.jpeg",
+    "description": "Quality refurbished laptop with warranty",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 180000
+  },
+  {
+    "id": 18,
+    "name": "LENEVO ThinkPad L13 YOGA Core i7  10th Gen",
+    "category": "Computers",
+    "price": 200000,
+    "image": "/LENEVO THINK L13 YOGA I7.jpg",
+    "description": "Space-saving computer with built-in monitor",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 19,
+    "name": "Student Laptop HP ELITEBOOK 840 G3 Core i5",
+    "category": "Computers",
+    "price": 100000,
+    "image": "/HP ELITE 840 G3 I5.jpg",
+    "description": "Perfect laptop for students and basic tasks",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 20,
+    "name": "DELL LATITUDE 5580 Core i7 NVIDIA QUADRO M620 (2GB) Workstation",
+    "category": "Computers",
+    "price": 180000,
+    "image": "/DELL LAT 5580 I7 2G-D.jpg",
+    "description": "Professional workstation for demanding applications",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 21,
+    "name": "iPhone 11 64GB & 128GB",
+    "category": "Phones",
+    "price": 125000,
+    "image": "/i11.png",
+    "description": "Latest iPhone with A17 Pro chip and titanium design",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 130000
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy S21 DUAL SIM ",
+    "category": "Phones",
+    "price": 140000,
+    "image": "/SAMSUNG S21.png",
+    "description": "Samsung Galaxy S24 with AI features and 200MP camera",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 23,
+    "name": "IPHONE 12 PRO 128GB",
+    "category": "Phones",
+    "price": 180000,
+    "image": "/i12pro_pm-removebg-preview.png",
+    "description": "IPHONE's flagship phone with pure IOS experience",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 24,
+    "name": "IPHONE 12 64GB & 128GB",
+    "category": "Phones",
+    "price": 165000,
+    "image": "/i12-removebg-preview.png",
+    "description": "Flagship killer with premium features",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 170000
+  },
+  {
+    "id": 25,
+    "name": "Google Pixel 6A 128GB",
+    "category": "Phones",
+    "price": 105000,
+    "image": "/PIXEL 6A.jpg",
+    "description": "Previous generation Pixel with great value",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 26,
+    "name": "IPHONE 13 PRO 128GB",
+    "category": "Phones",
+    "price": 150000,
+    "image": "/i13pro-removebg-preview.png",
+    "description": "Mid-range iPhone phone with excellent camera",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 27,
+    "name": "REDMI 14C 256GB 8GB RAM",
+    "category": "Phones",
+    "price": 75000,
+    "image": "/REDMI 14C.jpg",
+    "description": "High-performance phone with Leica cameras",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 28,
+    "name": "iPhone XR 64GB & 128GB",
+    "category": "Phones",
+    "price": 100000,
+    "image": "/iXR.jpg",
+    "description": "Compact iPhone with A15 Bionic chip",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 110000
+  },
+  {
+    "id": 29,
+    "name": "Google Pixel 5A 128GB 5G",
+    "category": "Phones",
+    "price": 90000,
+    "image": "/Google-Pixel-5a.png",
+    "description": "High performance smartphone with tablet functionality",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 30,
+    "name": "Small Budget Phone P10 Lite",
+    "category": "Phones",
+    "price": 35000,
+    "image": "/p10-lite.png",
+    "description": "Unique transparent design with glyph interface",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 31,
+    "name": "Google Pixel-6 128GB New",
+    "category": "Phones",
+    "price": 135000,
+    "image": "/PIXEL 6.png",
+    "description": "Curved display phone with fast charging",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 32,
+    "name": "IPHONE 14 PROMAX 256GB",
+    "category": "Phones",
+    "price": 410000,
+    "image": "/i14pro__pm-removebg-preview.png",
+    "description": "Premium camera phone with Leica optics",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 33,
+    "name": "SAMSUNG GALAXY A16 64GB & 128GB",
+    "category": "Phones",
+    "price": 90000,
+    "image": "/SAMSUNG A16.webp",
+    "description": "Professional camera phone for content creators",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 34,
+    "name": "Google Pixel 7Pro 128GB",
+    "category": "Phones",
+    "price": 180000,
+    "image": "/google-pixel-7-pro.avif",
+    "description": "Budget gaming phone with flagship performance",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 175000
+  },
+  {
+    "id": 35,
+    "name": "IPHONE 15 128GB ",
+    "category": "Phones",
+    "price": 380000,
+    "image": "/i15-removebg-preview.png",
+    "description": "Flagship phone with Hasselblad cameras",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 36,
+    "name": "SAMSUNG A06 64GB & 128GB",
+    "category": "Phones",
+    "price": 70000,
+    "image": "/SAMSUNG A06.png",
+    "description": "Photography-focused smartphone with Zeiss lenses",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 37,
+    "name": "Google Pixel 4A 4G & 5G 128GB",
+    "category": "Phones",
+    "price": 90000,
+    "image": "/PIXEL 4a.png",
+    "description": "AI-powered smartphone with curved display",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 38,
+    "name": "Google Pixel 8A 128GB Carbon Black",
+    "category": "Phones",
+    "price": 150000,
+    "image": "/google-pixel-8a.jpg",
+    "description": "Ultimate gaming phone with cooling system",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 39,
+    "name": "IPHONE 13 128GB Multi-Color",
+    "category": "Phones",
+    "price": 190000,
+    "image": "/i13-removebg-preview.png",
+    "description": "Sustainable and repairable smartphone",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 40,
+    "name": "Google Pixel-5 128GB",
+    "category": "Phones",
+    "price": 95000,
+    "image": "/google-pixel-5.png",
+    "description": "Quality refurbished iPhone with warranty",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 100000
+  },
+  {
+    "id": 41,
+    "name": "Wireless Gaming Mouse Luminous ",
+    "category": "Computer Accessories",
+    "price": 5000,
+    "image": "/GAMING MOUSE.png",
+    "description": "High-precision wireless gaming mouse with RGB lighting",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 42,
+    "name": "Mechanical Gaming Keyboard Luminous",
+    "category": "Computer Accessories",
+    "price": 9000,
+    "image": "/MECH KEYBOARD.webp",
+    "description": "RGB mechanical keyboard with blue switches",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 10000
+  },
+  {
+    "id": 43,
+    "name": "TABLET ENFANT 7POUCE 256GB & 8GB RAM",
+    "category": "Computer Accessories",
+    "price": 50000,
+    "image": "/TABLET ENFANT 7POUCE 256G 8G.png",
+    "description": "Ultra HD webcam for streaming and video calls",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 44,
+    "name": "All Computer Chargers From HP to Lenovo",
+    "category": "Computer Accessories",
+    "price": 15000,
+    "image": "/COMPUTER CHARGER-ALL.png",
+    "description": "Multi-port USB-C hub with HDMI and charging",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 45,
+    "name": "External Hard Drive with Case Toshiba 3.0 Speed",
+    "category": "Computer Accessories",
+    "price": 5000,
+    "image": "/Toshiba-HDD-Casing.webp",
+    "description": "Portable external storage for backup and files",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 46,
+    "name": "Gaming Headset High Bass performance",
+    "category": "Computer Accessories",
+    "price": 15000,
+    "image": "/GAMING HEADSET.png",
+    "description": "Surround sound gaming headset with microphone",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 20000
+  },
+  {
+    "id": 47,
+    "name": "PS4 SLIM v9 2MANNETTE + JEUX",
+    "category": "Computer Accessories",
+    "price": 15000,
+    "image": "/PS4 SLIM 2M+JEUX.png",
+    "description": "Adjustable monitor stand with storage",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 48,
+    "name": "Laptop Cooling Pad with Fans",
+    "category": "Computer Accessories",
+    "price": 15000,
+    "image": "/COOLING PAD.jpg",
+    "description": "Cooling pad with fans for laptop temperature control",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 49,
+    "name": "Laptop Carrying Bag",
+    "category": "Computer Accessories",
+    "price": 3500,
+    "image": "/LAPTOP BAG.webp",
+    "description": "Premium laptop bag with multiple compartments",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 5000
+  },
+  {
+    "id": 50,
+    "name": "Wireless Presenter EPSON HDMI with Laser Pointer",
+    "category": "Computer Accessories",
+    "price": 45000,
+    "image": "/PROJECTOR EPSON.png",
+    "description": "Remote presenter with laser pointer",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 52,
+    "name": "USB Flash Drive From 8GB-128GB",
+    "category": "Computer Accessories",
+    "price": 10000,
+    "image": "/USB FLASH.webp",
+    "description": "High-speed USB 3.0 flash drive",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 53,
+    "name": "Bluetooth Speaker with Bass Boost (JBL, SONY, etc)",
+    "category": "Computer Accessories",
+    "price": 15000,
+    "image": "/BLEUTOOTH SPEAKER.png",
+    "description": "Portable Bluetooth speaker with bass boost",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 55,
+    "name": "Ergonomic Mouse Pad",
+    "category": "Computer Accessories",
+    "price": 2500,
+    "image": "/GAMING MOUSE PAD.webp",
+    "description": "Wrist support mouse pad for comfort",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 3000
+  },
+  {
+    "id": 61,
+    "name": "AirPods Pro 2 Wireless Earbuds",
+    "category": "Phone Accessories",
+    "price": 15000,
+    "image": "/AIRPOD PRO 2.webp",
+    "description": "Apple AirPods Pro with active noise cancellation",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 62,
+    "name": "Apple Watch Series 9 GPS + Cellular",
+    "category": "Phone Accessories",
+    "price": 10000,
+    "image": "/APPLE WATCH.jpeg",
+    "description": "Latest Apple Watch with health monitoring features",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 63,
+    "name": "Premium Phone Case silicone",
+    "category": "Phone Accessories",
+    "price": 1000,
+    "image": "/BEST-IPHONE-16-CASES.webp",
+    "description": "Protective phone case with military-grade protection",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 65,
+    "name": "Phone Screen Protector Tempered Glass",
+    "category": "Phone Accessories",
+    "price": 2000,
+    "image": "/SCREEN PROTECTOR.webp",
+    "description": "Tempered glass screen protector",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 67,
+    "name": "Power Bank 30000mAh Li-ion Charger",
+    "category": "Phone Accessories",
+    "price": 25000,
+    "image": "/POWERBANK.jpg",
+    "description": "High-capacity portable charger with fast charging",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 69,
+    "name": "Bluetooth  Headphones Over-Ear Model Hoco",
+    "category": "Phone Accessories",
+    "price": 10000,
+    "image": "/HEADPHONES.webp",
+    "description": "Over-ear Bluetooth headphones with noise cancellation",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 75,
+    "name": "Smartwatch Connected Fitness Tracker",
+    "category": "Phone Accessories",
+    "price": 10000,
+    "image": "/SMARTWATCH.png",
+    "description": "Premium silicone band for smartwatches",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 83,
+    "name": "4G LTE Modem with WiFi Hotspot Capability Multi-SIM",
+    "category": "Modems",
+    "price": 18000,
+    "image": "/4G LITE MODEM.jpeg",
+    "description": "Portable 4G LTE modem with WiFi hotspot",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 86,
+    "name": "5G Mobile Router with High-Speed Connectivity",
+    "category": "Modems",
+    "price": 25000,
+    "image": "/5G MOBILE ROUTER.png",
+    "description": "Next-gen 5G mobile router for ultra-fast internet",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 91,
+    "name": "WiFi USB Adapter High Gain Antenna",
+    "category": "Modems",
+    "price": 5000,
+    "image": "/USB WIFI.jpg",
+    "description": "USB WiFi adapter for desktop computers",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 97,
+    "name": "Satellite Internet Kit Starlink V4.0 & Mini",
+    "category": "Modems",
+    "price": 300000,
+    "image": "/STARLINK.png",
+    "description": "Complete satellite internet setup kit",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 101,
+    "name": "Computer Repair Service Contact Us",
+    "category": "Services",
+    "price": 0,
+    "image": "/COMPUTER REPAIRE.png",
+    "description": "Professional computer hardware and software repair service including diagnosis, component replacement, and system optimization",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 102,
+    "name": "WEB DEV SERVICES Contact Us",
+    "category": "Services",
+    "price": 0.0,
+    "image": "/WEB DEV SERVICES.png",
+    "description": "Professional phone screen replacement service for all major brands including iPhone, Samsung, and other smartphones",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 104,
+    "name": "BOOST YOUR SOCIAL MEDIA Contact Us",
+    "category": "Services",
+    "price": 0,
+    "image": "/SOCIAL MEDIA.png",
+    "description": "Complete malware and virus removal service including system cleaning, security software installation, and prevention tips",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": 105,
+    "name": "Cybersecurity & Anti-Hacking Service",
+    "category": "Services",
+    "price": 10000,
+    "image": "/5.png",
+    "description": "Comprehensive cybersecurity service including system hardening, security audit, firewall setup, and protection against hacking attempts",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 15000
+  }
+]
