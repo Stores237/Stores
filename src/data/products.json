@@ -10,6 +10,17 @@
     "isSpecialOffer": true,
     "originalPrice": 150000
   },
+      {
+    "id": 107,
+    "name": "HP PROBOOK X360 TACTILE ROTATIF  (Gen8)",
+    "category": "Computers",
+    "price": 60000,
+    "image": "/HP_PB360.jpg",
+    "description": "Ultra-portable laptop for student and office management",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 75000
+  },
   {
     "id": 1,
     "name": "HP PAVILLON Core i7 NVIDIA GEFORCE GTX 1050",
