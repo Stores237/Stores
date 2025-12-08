@@ -21,6 +21,16 @@
     "isSpecialOffer": true,
     "originalPrice": 75000
   },
+    {
+    "id": 108,
+    "name": "DELL LATITUDE 5520 Core i5 11th Gen",
+    "category": "Computers",
+    "price": 170000,
+    "image": "/DELL_5520_11e.jpg",
+    "description": "Professional computer with good autonomie ideal for student & workers",
+    "inStock": true,
+    "isSpecialOffer": false
+  },
   {
     "id": 1,
     "name": "HP PAVILLON Core i7 NVIDIA GEFORCE GTX 1050",
