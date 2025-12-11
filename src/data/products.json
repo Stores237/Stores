@@ -519,7 +519,7 @@
     "name": "PS4 SLIM v9 2MANNETTE + JEUX",
     "category": "Computer Accessories",
     "price": 150000,
-    "image":"/public/PS4_2M.png",
+    "image":"PS4_2M.png",
     "description": "Adjustable monitor stand with storage",
     "inStock":true,
     "isSpecialOffer": false
