@@ -31,6 +31,17 @@
     "inStock": true,
     "isSpecialOffer": false
   },
+      {
+    "id": 109,
+    "name": "PS5 SLIM 2JEUX-CD (FC25 & SPIDERMAN) 1MANETTE ",
+    "category": "Computer Accessories",
+    "price": 315000,
+    "image": "/PS5_1M.jpg",
+    "description": "Professional computer with good autonomie ideal for student & workers",
+    "inStock": true,
+    "isSpecialOffer": true,
+    "originalPrice": 330000
+  },
   {
     "id": 1,
     "name": "HP PAVILLON Core i7 NVIDIA GEFORCE GTX 1050",
